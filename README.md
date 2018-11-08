@@ -1,2 +1,2 @@
 # UVaOJ
-my accepted questions in UVaOJ
+My accepted questions in UVaOJ
